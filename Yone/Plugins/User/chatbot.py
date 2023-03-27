@@ -4,7 +4,7 @@ import os
 import html
 import requests
 import Yone.Database.chatbot_sql as sql
-from korax import Kora
+
 
 from time import sleep
 from telegram.constants import ParseMode
